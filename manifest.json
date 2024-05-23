@@ -2,7 +2,7 @@
     "name": "ourLab8-Starter",
     "short_name": "Kris&Seline",
     "description": "PWA for our lab 8 recipe webapp",
-    "start_url": "http://127.0.0.1:5500/index.html",
+    "start_url": "https://klortiz13.github.io/ourLab8-Starter/",
     "display": "standalone",
     "background_color": "blue",
     "theme_color": "dark",
